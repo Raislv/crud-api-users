@@ -1,0 +1,7 @@
+organization=raislv
+projectKey=Raislv_crud-api-users
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.76449
+dashboardUrl=https://sonarcloud.io/dashboard?id=Raislv_crud-api-users
+ceTaskId=AZp1-TOwijojQl8fE_VJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZp1-TOwijojQl8fE_VJ
